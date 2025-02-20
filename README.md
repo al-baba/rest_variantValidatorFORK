@@ -2,6 +2,8 @@
 [![Build Status](http://127.0.0.1:8080/job/rest_VariantValidator%20CI/job/master/badge/icon)](http://127.0.0.1:8080/job/rest_VariantValidator%20CI/job/master/)
 [![codecov](https://codecov.io/gh/openvar/rest_variantValidator/graph/badge.svg?token=DE92ZVZT3F)](https://codecov.io/gh/openvar/rest_variantValidator)
 
+OBJECTIVE: Build-Status GREEN
+
 ## About rest_variantValidator
 
 rest_variantValidator is a rest web interface for VariantValidator
