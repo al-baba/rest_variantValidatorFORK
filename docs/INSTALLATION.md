@@ -23,3 +23,15 @@ $ conda activate vvrest
 See the [VariantValidator](https://github.com/openvar/variantValidator) installation documentation to install the
 databases and set up configurations. You will need to run the confuguration script if you have not installed this API
 previously. Contact admin if you are having any difficulties
+
+Following creation of virtual environment: Installation Methods
+
+    Using Poetry:
+
+    Install Poetry.
+    Use poetry install to install dependencies and set up the environment.
+
+    Using pip:
+
+    Ensure the [build-system] section is correctly configured.
+    Use pip install . to install the package.
