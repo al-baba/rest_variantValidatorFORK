@@ -35,3 +35,8 @@ Following creation of virtual environment: Installation Methods
 
     Ensure the [build-system] section is correctly configured.
     Use pip install . to install the package.
+
+#   TODO: begin with pytest
+#     create folder
+#     create files
+#     create pytest 'client'
